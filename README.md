@@ -1,4 +1,4 @@
-<h2> 👋 Hey there! I'm Karthik Nayak</h2><img src="https://komarev.com/ghpvc/?username=Dishansh-Kumar8&label=Visitors&color=32cd32&style=flat-square" alt="karthik-nayak98"/>
+<h2> 👋 Hey there! I'm Dishansh Kumar</h2><img src="https://komarev.com/ghpvc/?username=Dishansh-Kumar8&label=Visitors&color=32cd32&style=flat-square" alt="karthik-nayak98"/>
 
 ### 👨🏻‍💻 About Me
 
@@ -6,25 +6,6 @@
 💻 &nbsp;I'm currently working On my DSA and Problem Solving Skills.\
 📚 &nbsp;In my free time, I read books and listen to podcasts etc.\
 ✉️ &nbsp;You can shoot me an email at dishanshkumar28@gmail.com! I'll try to respond as soon as I can.\
-
-
-### ⚙️ Tools and Technologies
-
-<p align="left">
-<!--  <img align="center" src="assets/c.svg" alt="c"/>
- <img align="center" src="assets/c++.svg" alt="c++"/> -->
- <img align="center" src="assets/html.svg" alt="html"/>
- <img align="center" src="assets/css.svg" alt="Terminal"/>
- <img align="center" src="assets/javascript.svg" alt="Terminal"/>
- <img align="center" src="assets/python.svg" alt="python"/>
- <img align="center" src="assets/react.svg" alt="react"/>
- <img align="center" src="assets/tailwindcss.svg" alt="tailwindCSS"/>
- <img align="center" src="/assets/vim.svg" alt="vim"/>
- <img align="center" src="assets/vscode.svg" alt="vscode"/>
- <img align="center" src="assets/git.svg" alt="git"/>
- <img align="center" src="assets/linux.svg" alt="linux"/>
-</p>
-
 
 ### 📈 Analytics
 
