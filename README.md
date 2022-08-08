@@ -11,7 +11,7 @@
 
 <p align="left">
 <a href="https://github.com/Dishansh-Kumar">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Dishansh-Kumar98&show_icons=true&theme=algolia&count_private=true">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Dishansh-Kumar&show_icons=true&theme=algolia&count_private=true">
   <img height='180em' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dishansh-Kumar&layout=compact&theme=algolia&langs_count=8" />
 </a>
 </p>
